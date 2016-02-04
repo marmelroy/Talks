@@ -4,6 +4,10 @@ Talk given 29 Jan 2016 at dotSwift Paris.
 
 The apps we release are instantly available in over 150 countries with different languages, cultures and formatting rules. As developers, we often do the bare minimum to tailor our apps to international users and many tools provided by iOS are hidden in plain sight. Together, we'll go on a journey around the world in search of the strange and wonderful and highlight creative ways to make global users feel at home.
 
+## Speaker Deck
+- ["Localization is hard" on Speaker Deck](https://speakerdeck.com/marmelroy/localization-is-hard
+)
+
 ## Video
 [coming soon]
 
