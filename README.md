@@ -1,8 +1,10 @@
+I enjoy talking about Swift and programming. Here is a list of past and future talks (with links to videos, slides and additional reading). 
+
 ## Upcoming Talks
 
 TBA
 
-If youâ€™re interested in having me speak at a conference you are organizing, please send me a message at <hello@roysapps.com>. Thanks! í ½
+If youâ€™re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
 
 ## Past Talks
 
