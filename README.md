@@ -2,7 +2,9 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 ## Upcoming Talks
 
-TBA
+| Date        | Title | Event | Location |
+| ----------- | ----- | ----- | -------- |
+| 20 Mar 2016 | Swift and Philosophy | SwiftAveiro | Aveiro, Portugal |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
 
@@ -10,4 +12,4 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 29 Jan 2016 | [Localization is Hard](https://github.com/marmelroy/Talks/tree/master/2016/DotSwift) | DotSwift | Paris |
+| 29 Jan 2016 | [Localization is Hard](https://github.com/marmelroy/Talks/tree/master/2016/DotSwift) | DotSwift | Paris, France |
