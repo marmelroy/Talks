@@ -9,7 +9,7 @@ The apps we release are instantly available in over 150 countries with different
 )
 
 ## Video
-[coming soon]
+- [https://www.youtube.com/watch?v=R9_jFbQsFWA](https://www.youtube.com/watch?v=R9_jFbQsFWA)
 
 ## Additional reading
 - [Apple's localization guide](https://developer.apple.com/library/prerelease/ios/documentation/MacOSX/Conceptual/BPInternational/Introduction/Introduction.html)
