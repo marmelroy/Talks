@@ -4,7 +4,6 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 15 Mar 2016 | Reverse Engineering UI | Swift Meetup | Paris, France |
 | 20 Mar 2016 | I Swift therefore I am | SwiftAveiro | Aveiro, Portugal |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
@@ -13,4 +12,5 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| 15 Mar 2016 | [Reverse Engineering UI](https://github.com/marmelroy/Talks/tree/master/2016/ParisSwift) | Swift Meetup | Paris, France |
 | 29 Jan 2016 | [Localization is Hard](https://github.com/marmelroy/Talks/tree/master/2016/DotSwift) | DotSwift | Paris, France |
