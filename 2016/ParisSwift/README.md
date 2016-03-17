@@ -8,7 +8,7 @@ No one has a monopoly on great ideas and copying things well can be as much of a
 - ["Reverse Engineering UI" on Speaker Deck](https://speakerdeck.com/marmelroy/reverse-engineering-ui)
 
 ## Video
-[coming soon]
+- [https://www.youtube.com/watch?v=ba669aLCNL8](https://www.youtube.com/watch?v=ba669aLCNL8)
 
 ## Additional reading
 - [http://krakendev.io/peek-pop/](http://krakendev.io/peek-pop/)
