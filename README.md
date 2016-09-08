@@ -6,7 +6,7 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 | ----------- | ----- | ----- | -------- |
 | 23 Sep 2016 | Swift script all the things! (Ligthning) | FrenchKit | Paris, France |
 | 22 Oct 2016 | The Objective C Runtime and Swift Dynamism | Mobilization 2016 | Lodz, Poland |
-| 10-11 Nov 2016 | Mentor | The Swift Alps | Crans-Montana, Switzerland |
+| 10 Nov 2016 | Mentor | The Swift Alps | Crans-Montana, Switzerland |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
 
