@@ -36,14 +36,14 @@ CommandLine.arguments
 
 You can ask for user input using:
 ```swift
-readLine()
+let string = readLine()
 ```
 
 ### Shell
 
-You can run shell commands using Process() (formerly NSTask) using this function (make sure to import Foundation):
-```swift
-func shell(_ command: String) {
+You can run shell commands using Process() (formerly NSTask) using this function (make sure to import Foundation). 
+
+```func shell(_ command: String) {
     let arguments = command.components(separatedBy: " ")
     let process = Process()
     process.launchPath = "/usr/bin/env"
@@ -55,6 +55,12 @@ func shell(_ command: String) {
 
 ### Current file path
 There's no NSBundle when writing a Swift script. To get the current path use
+```swift
+let currentPath = FileManager.default.currentDirectoryPath
+```
+
+### Returning 
+You can't return in a Swift script. To end the context, use:
 ```swift
 let currentPath = FileManager.default.currentDirectoryPath
 ```
@@ -72,5 +78,31 @@ struct commandLineFormat {
     static let magenta = "\u{001B}[0;35m"
     static let cyan = "\u{001B}[0;36m"
     static let white = "\u{001B}[0;37m"
+}
+```
+
+### Advanced Shell
+
+The function breaks down a command into a string array of arguments by separating on " ". This is somewhat hacky as there are actual spaces you might want to keep. 
+
+Additionally, you may wish to capture the output from the process. 
+
+Here is an advanced example: 
+
+```swift
+let shellSeparator = "␣"
+
+func shell(_ command: String) -> String {
+    var arguments = command.components(separatedBy: " ")
+    arguments = arguments.map{ $0.replacingOccurrences(of: shellSeparator, with: " ")}
+    let pipe = Pipe()
+    let process = Process()
+    process.launchPath = "/usr/bin/env"
+    process.arguments = arguments
+    process.standardOutput = pipe
+    process.waitUntilExit()
+    process.launch()
+    let data = pipe.fileHandleForReading.readDataToEndOfFile()
+    return String(data: data, encoding: String.Encoding.utf8)
 }
 ```
