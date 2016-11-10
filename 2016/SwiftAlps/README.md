@@ -43,7 +43,8 @@ let string = readLine()
 
 You can run shell commands using Process() (formerly NSTask) using this function (make sure to import Foundation). 
 
-```func shell(_ command: String) {
+```swift 
+func shell(_ command: String) {
     let arguments = command.components(separatedBy: " ")
     let process = Process()
     process.launchPath = "/usr/bin/env"
@@ -62,7 +63,7 @@ let currentPath = FileManager.default.currentDirectoryPath
 ### Returning 
 You can't return in a Swift script. To end the context, use:
 ```swift
-let currentPath = FileManager.default.currentDirectoryPath
+exit(1)
 ```
 
 ### Color
