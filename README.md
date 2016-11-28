@@ -14,7 +14,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 | ----------- | ----- | ----- | -------- |
 | 10 Nov 2016 | Mentor | The Swift Alps | Crans-Montana, Switzerland |
 | 22 Oct 2016 | The Objective C Runtime and Swift Dynamism | Mobilization 2016 | Lodz, Poland |
-| 23 Sep 2016 | Swift script all the things! (Ligthning) | FrenchKit | Paris, France |
+| 23 Sep 2016 | Swift script all the things! (Lightning) | FrenchKit | Paris, France |
 | 26 May 2016 | [Controversies in iOS Development](https://github.com/marmelroy/Talks/tree/master/2016/NSLondon) | NSLondon | London, UK |
 | 26 May 2016 | [I Swift Therefore I am](https://github.com/marmelroy/Talks/tree/master/2016/iOS%20Con) | iOSCon | London, UK |
 | 20 Mar 2016 | Swift and Philosophy | SwiftAveiro | Aveiro, Portugal |
