@@ -4,6 +4,7 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| 27 Jan 2017 | Silver bullets in Swift | dotSwift | Paris, France |
 | 24-25 Apr 2017 | Stranger Things (in Swift) | App Builders | Lausanne, Switzerland |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
@@ -19,4 +20,4 @@ If you’re interested in having me speak at a conference you are organizing, pl
 | 26 May 2016 | [I Swift Therefore I am](https://github.com/marmelroy/Talks/tree/master/2016/iOS%20Con) | iOSCon | London, UK |
 | 20 Mar 2016 | Swift and Philosophy | SwiftAveiro | Aveiro, Portugal |
 | 15 Mar 2016 | [Reverse Engineering UI](https://github.com/marmelroy/Talks/tree/master/2016/ParisSwift) | Swift Meetup | Paris, France |
-| 29 Jan 2016 | [Localization is Hard](https://github.com/marmelroy/Talks/tree/master/2016/DotSwift) | DotSwift | Paris, France |
+| 29 Jan 2016 | [Localization is Hard](https://github.com/marmelroy/Talks/tree/master/2016/DotSwift) | dotSwift | Paris, France |
