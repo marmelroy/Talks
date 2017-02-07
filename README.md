@@ -5,6 +5,7 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
 | 27 Jan 2017 | Silver bullets in Swift | dotSwift | Paris, France |
+| 4 Mar 2017 | Pleasure and pain with Swift | CocoaHeads Kyiv | Kyiv, Ukraine |
 | 24-25 Apr 2017 | Stranger Things (in Swift) | App Builders | Lausanne, Switzerland |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
