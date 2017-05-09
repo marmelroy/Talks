@@ -4,8 +4,6 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 30 Mar - 1 Apr 2017 | Silver bullets in Swift | RWDevCon | Virginia, USA |
-| 24-25 Apr 2017 | Stranger Things (in Swift) | App Builders | Lausanne, Switzerland |
 | 22-23 Jun 2017 | Motion + Developer/Designer relationship | ADDC | Barcelona, Spain |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
@@ -14,6 +12,8 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| 25 Apr 2017 | Silver bullets | App Builders | Lausanne, Switzerland |
+| 1 Apr 2017 | Silver bullets | RWDevCon | Virginia, USA |
 | 27 Jan 2017 | Silver bullets in Swift | dotSwift | Paris, France |
 | 10 Nov 2016 | Mentor | The Swift Alps | Crans-Montana, Switzerland |
 | 22 Oct 2016 | The Objective C Runtime and Swift Dynamism | Mobilization 2016 | Lodz, Poland |
