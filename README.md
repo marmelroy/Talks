@@ -4,7 +4,7 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 22-23 Jun 2017 | Motion + Developer/Designer relationship | ADDC | Barcelona, Spain |
+|TBC|
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
 
@@ -12,6 +12,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| 22 Jun 2017 | Motion + Developer/Designer relationship | ADDC | Barcelona, Spain |
 | 8 May 2017 | Music and programming | Spotify Unconference | Stockholm, Sweden |
 | 25 Apr 2017 | Silver bullets | App Builders | Lausanne, Switzerland |
 | 1 Apr 2017 | Silver bullets | RWDevCon | Virginia, USA |
