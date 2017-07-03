@@ -12,7 +12,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 22 Jun 2017 | Motion + Developer/Designer relationship | ADDC | Barcelona, Spain |
+| 22 Jun 2017 | Developer/Designer relationship | ADDC | Barcelona, Spain |
 | 8 May 2017 | Music and programming | Spotify Unconference | Stockholm, Sweden |
 | 25 Apr 2017 | Silver bullets | App Builders | Lausanne, Switzerland |
 | 1 Apr 2017 | Silver bullets | RWDevCon | Virginia, USA |
