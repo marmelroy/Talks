@@ -4,7 +4,7 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 14-15 Sep 2017 | TBD | [NSSpain](https://2017.nsspain.com) | Logroño, Spain |
+| TBD |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
 
@@ -12,6 +12,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| 14-15 Sep 2017 | Growing | [NSSpain](https://2017.nsspain.com) | Logroño, Spain |
 | 22 Jun 2017 | [Developer/Designer relationship](https://www.youtube.com/watch?v=yPtsoKpVIo0) | ADDC | Barcelona, Spain |
 | 8 May 2017 | Music and programming | Spotify Unconference | Stockholm, Sweden |
 | 25 Apr 2017 | [Silver bullets](https://www.youtube.com/watch?v=zUABfqFOb2Q) | App Builders | Lausanne, Switzerland |
