@@ -4,7 +4,8 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 16,17 Apr 2017 | TBD | App Builders | Lugano, Switzerland |
+| 4,5 Jul 2018 | TBD | [Swift Island](https://swiftisland.nl) | Texel, Netherlands |
+| 10 Sep 2018 | TBD | [Swift & Fika](http://www.swiftandfika.com) | Stockholm, Sweden |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
 
