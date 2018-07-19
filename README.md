@@ -4,7 +4,6 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 4,5 Jul 2018 | TBD | [Swift Island](https://swiftisland.nl) | Texel, Netherlands |
 | 10 Sep 2018 | TBD | [Swift & Fika](http://www.swiftandfika.com) | Stockholm, Sweden |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
@@ -13,6 +12,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| 4,5 Jul 2018 | Seal Chat (best of the rest) | [Swift Island](https://swiftisland.nl) | Texel, Netherlands |
 | 14-15 Sep 2017 | Growing | [NSSpain](https://2017.nsspain.com) | Logroño, Spain |
 | 22 Jun 2017 | [Developer/Designer relationship](https://www.youtube.com/watch?v=yPtsoKpVIo0) | ADDC | Barcelona, Spain |
 | 8 May 2017 | Music and programming | Spotify Unconference | Stockholm, Sweden |
