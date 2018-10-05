@@ -4,7 +4,7 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 10 Sep 2018 | TBD | [Swift & Fika](http://www.swiftandfika.com) | Stockholm, Sweden |
+| TBD |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
 
@@ -12,12 +12,14 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 4,5 Jul 2018 | Seal Chat (best of the rest) | [Swift Island](https://swiftisland.nl) | Texel, Netherlands |
-| 14-15 Sep 2017 | Growing | [NSSpain](https://2017.nsspain.com) | Logroño, Spain |
+| 5 Oct 2018 | Adventures in Open Source | [Mobiconf](https://2018.mobiconf.org) | Krakow, Poland |
+| 10 Sep 2018 | [Open Source and Swift](https://www.youtube.com/watch?v=Fj6iFCZ800U) | [Swift & Fika](http://www.swiftandfika.com) | Stockholm, Sweden |
+| 4,5 Jul 2018 | [Seal Chat](https://github.com/SwiftIsland/SealChat) | [Swift Island](https://swiftisland.nl) | Texel, Netherlands |
+| 14-15 Sep 2017 | [Growing](https://vimeo.com/235141627) | [NSSpain](https://2017.nsspain.com) | Logroño, Spain |
 | 22 Jun 2017 | [Developer/Designer relationship](https://www.youtube.com/watch?v=yPtsoKpVIo0) | ADDC | Barcelona, Spain |
 | 8 May 2017 | Music and programming | Spotify Unconference | Stockholm, Sweden |
 | 25 Apr 2017 | [Silver bullets](https://www.youtube.com/watch?v=zUABfqFOb2Q) | App Builders | Lausanne, Switzerland |
-| 1 Apr 2017 | Silver bullets | RWDevCon | Virginia, USA |
+| 1 Apr 2017 | [Silver bullets](https://www.raywenderlich.com/282-rwdevcon-2017-inspiration-talk-silver-bullets-and-hype-by-roy-marmelstein) | RWDevCon | Virginia, USA |
 | 27 Jan 2017 | Silver bullets in Swift | dotSwift | Paris, France |
 | 10 Nov 2016 | Mentor | The Swift Alps | Crans-Montana, Switzerland |
 | 22 Oct 2016 | [The Objective C Runtime and Swift Dynamism](https://www.youtube.com/watch?v=HNE4ukOYfy8) | Mobilization 2016 | Lodz, Poland |
