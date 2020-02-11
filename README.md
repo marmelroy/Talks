@@ -12,6 +12,8 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| 28 Aug 2019 | [Design System and Component Libraries at Spotify](https://www.youtube.com/watch?v=nIHfhPozB3k) | SwiftConf | Cologne, Germany |
+| 26 Jun 2019 | [Design System and Component Libraries at Spotify](https://www.youtube.com/watch?v=ZgNuA9Ra9a0) | ADDC | Barcelona, Spain |
 | 5 Oct 2018 | Adventures in Open Source | [Mobiconf](https://2018.mobiconf.org) | Krakow, Poland |
 | 10 Sep 2018 | [Open Source and Swift](https://www.youtube.com/watch?v=Fj6iFCZ800U) | [Swift & Fika](http://www.swiftandfika.com) | Stockholm, Sweden |
 | 4,5 Jul 2018 | [Seal Chat](https://github.com/SwiftIsland/SealChat) | [Swift Island](https://swiftisland.nl) | Texel, Netherlands |
