@@ -6,7 +6,7 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 | ----------- | ----- | ----- | -------- |
 | TBD |
 
-If you’re interested in having me speak at a conference you are organizing, please send me a message to <hello@roysapps.com>. Thanks!
+If you’re interested in having me speak at a conference you are organizing, please send me a message to <marmelroy@gmail.com>. Thanks!
 
 ## Past Talks
 
