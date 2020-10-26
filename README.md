@@ -4,7 +4,7 @@ I enjoy talking about Swift and programming. Here is a list of past and future t
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| TBD |
+| 19 Nov 2020 | Making a Component Library | [NSSpain](https://www.nsspain.com) | Remote 🦠 |
 
 If you’re interested in having me speak at a conference you are organizing, please send me a message to <marmelroy@gmail.com>. Thanks!
 
@@ -12,6 +12,7 @@ If you’re interested in having me speak at a conference you are organizing, pl
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
+| 02 Oct 2020 | Implementing a Component Library in Swift | [Swift Heroes](https://swiftheroes.com) | Remote 🦠 |
 | 28 Aug 2019 | [Best Practices](https://www.youtube.com/watch?v=nIHfhPozB3k) | SwiftConf | Cologne, Germany |
 | 26 Jun 2019 | [Design System and Component Libraries at Spotify](https://www.youtube.com/watch?v=ZgNuA9Ra9a0) | ADDC | Barcelona, Spain |
 | 5 Oct 2018 | Adventures in Open Source | [Mobiconf](https://2018.mobiconf.org) | Krakow, Poland |
